@@ -18,9 +18,9 @@ A modern Android application built with Jetpack Compose that allows users to dis
            alt="Home Screen" width="250" />
   </tr>
   <tr>
-    <td align="center"><b>Home Screen</b></td>
-    <td align="center"><b>Add Transaction</b></td>
-    <td align="center"><b>History with filters</b></td>
+    <td align="center"><b>Movie Tab</b></td>
+    <td align="center"><b>Tv Show Tab</b></td>
+    <td align="center"><b>Detail Screen</b></td>
   </tr>
 </table>
 
@@ -45,31 +45,6 @@ A modern Android application built with Jetpack Compose that allows users to dis
 | **Coil** | Image loading |
 | **Material 3** | UI components |
 
-## 📁 Project Structure
-```
-com.example.watchly/
-├── data/
-│   ├── remote/
-│   │   ├── ApiService.kt
-│   │   └── response/
-│   │       ├── ItemResponse.kt
-│   │       └── ItemDetailResponse.kt
-│   └── repository/
-│       └── WatchlyRepository.kt
-├── di/
-│   └── NetworkModule.kt
-├── ui/
-│   ├── home/
-│   │   ├── HomeScreen.kt
-│   │   ├── HomeViewModel.kt
-│   │   └── HomeScreenUiState.kt
-│   ├── detail/
-│   │   ├── DetailScreen.kt
-│   │   ├── DetailScreenViewModel.kt
-│   │   └── DetailScreenUiState.kt
-│   └── theme/
-└── WatchlyApp.kt
-```
 
 ## 🚀 Setup Instructions
 
@@ -112,11 +87,11 @@ This app uses the [Watchmode API](https://api.watchmode.com/) to fetch movie and
 
 ## 🎥 Demo Video
 
-[Link to demo video](your_video_link_here)
+https://github.com/user-attachments/assets/1a145115-1804-4463-b9e3-12050ec29b9e
 
 ## 📦 APK Download
 
-[Download APK](your_apk_link_here)
+[Download APK](https://drive.google.com/file/d/1zVuhYMJnN9tkGwYI4Erj6XDjQtAoR9wU/view?usp=sharing)
 
 ---
 
